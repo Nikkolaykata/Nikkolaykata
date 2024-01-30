@@ -1,9 +1,4 @@
 ### Hi there 👋
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Nikkolaykata&count_private=true&show_icons=true" height="100px" >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkolaykata&layout=compact" height="100px" >
-</p>
-
 <h3 align="center">Nikolay Kolev student at Software University Bulgaria! </h3>
 <p align="center">JavaScript | Node.js | React | HTML | CSS</p>
   
