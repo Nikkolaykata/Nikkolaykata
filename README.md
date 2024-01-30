@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center">Nikolay Kolev student at Software University Bulgaria! </p>
+<h3 align="center">Nikolay Kolev student at Software University Bulgaria! </h3>
 <p align="center">JavaScript | Node.js | React | HTML | CSS</p>
   
 <div align="center" style="height=20%">
