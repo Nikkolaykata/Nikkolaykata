@@ -1,4 +1,11 @@
 ### Hi there 👋
+<p align="center">KOLEV</p>
+  
+<div align="center" style="height=20%">
+   <a href="https://softuni.bg/">
+      <img src="https://github.com/Nikkolaykata/Nikolay-Kolev/blob/753c22de7008c17de023826443b32c4062c3e3aa/images/sofuni-logo.png" height="90px">
+   </a>
+</div>
 
 <!--
 **Nikkolaykata/Nikkolaykata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
