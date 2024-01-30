@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center">KOLEV</p>
+<p align="center">Nikolay Kolev student at Software University Bulgaria! </p>
   
 <div align="center" style="height=20%">
    <a href="https://softuni.bg/">
