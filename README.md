@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h3 align="center">Nikolay Kolev student at Software University Bulgaria! </h3>
-<p align="center">JavaScript | Node.js | React | HTML | CSS</p>
+<p align="center">JavaScript | Node.js | ReactJS | HTML | CSS</p>
   
 <div align="center" style="height=20%">
    <a href="https://softuni.bg/">
