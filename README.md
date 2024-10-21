@@ -2,16 +2,21 @@
 <h3 align="center">Nikolay Kolev student at Software University Bulgaria! </h3>
 
 <section align="center">
-  <span>JavaScript</span>
+  <span>JavaScript
     <img width=20px height=20px src="images/js-brands-solid.svg" alt>
-  <span>Node.js</span>
+  </span>
+  <span>Node.js
     <img width=20px height=20px src="images/node-js-brands-solid.svg" alt>
-  <span>React</span>
+  </span>
+  <span>React
     <img width=20px height=20px src="images/react-brands-solid.svg" alt>
-  <span>HTML</span>
+  </span>
+  <span>HTML
     <img width=20px height=20px src="images/html5-brands-solid.svg" alt>
-  <span>CSS</span>
+  </span>
+ <span>CSS
     <img width=20px height=20px src="images/css3-alt-brands-solid.svg" alt>
+ </span>
 </section>
   
 <div align="center" style="height=20%">
