@@ -1,12 +1,18 @@
 ### Hi there 👋
 <h3 align="center">Nikolay Kolev student at Software University Bulgaria! </h3>
 
-<span>JavaScript</span>
-<span>Node.js</span>
-<span>ReactJS</span>
-<span>HTML</span>
-<span>CSS</span>
-<p align="center">JavaScript | Node.js | ReactJS | HTML | CSS</p>
+<section align="center">
+  <span>JavaScript</span>
+    <img width=20px height=20px src="images/js-brands-solid.svg" alt>
+  <span>Node.js</span>
+    <img width=20px height=20px src="images/node-js-brands-solid.svg" alt>
+  <span>React</span>
+    <img width=20px height=20px src="images/react-brands-solid.svg" alt>
+  <span>HTML</span>
+    <img width=20px height=20px src="images/html5-brands-solid.svg" alt>
+  <span>CSS</span>
+    <img width=20px height=20px src="images/css3-alt-brands-solid.svg" alt>
+</section>
   
 <div align="center" style="height=20%">
    <a href="https://softuni.bg/">
